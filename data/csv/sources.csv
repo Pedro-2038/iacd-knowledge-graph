@@ -1,0 +1,907 @@
+﻿node_id,file,page,verified,kind,note
+vetores_rn,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,1,resumo,§1 Vetores em Rⁿ
+vetores_rn,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,1,1,slides,1.1 Revisão
+vetores_rn,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,4,0,slides,6 ocorrência(s) de palavras-chave
+vetores_rn,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,3,0,slides,3 ocorrência(s) de palavras-chave
+vetores_rn,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,12,0,slides,1 ocorrência(s) de palavras-chave
+produto_interno,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,1,resumo,definição
+produto_interno,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,1,1,slides,Produto escalar ou interno (usual)
+norma,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,1,resumo,
+norma,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,1,0,slides,2 ocorrência(s) de palavras-chave
+norma,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,0,resumo,1 ocorrência(s) de palavras-chave
+norma,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,13,0,slides,1 ocorrência(s) de palavras-chave
+ortogonalidade,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,1,resumo,Definição
+ortogonalidade,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,3,0,slides,9 ocorrência(s) de palavras-chave
+ortogonalidade,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,0,resumo,7 ocorrência(s) de palavras-chave
+ortogonalidade,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,1,0,slides,7 ocorrência(s) de palavras-chave
+ortogonalidade,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,0,resumo,5 ocorrência(s) de palavras-chave
+ortogonalidade,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,13,0,slides,4 ocorrência(s) de palavras-chave
+ortogonalidade,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,10,0,slides,4 ocorrência(s) de palavras-chave
+eq_cartesiana,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,1,resumo,Equações cartesianas e vetoriais
+eq_cartesiana,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,2,1,slides,
+eq_cartesiana,Álgebra Linear e Geometria Analítica/ALGA 1.pdf,2,1,caderno,"Ex. 1.1, 1.2"
+eq_cartesiana,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,3,0,slides,7 ocorrência(s) de palavras-chave
+eq_cartesiana,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,5,0,slides,6 ocorrência(s) de palavras-chave
+eq_cartesiana,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,1,0,ficha,6 ocorrência(s) de palavras-chave
+eq_cartesiana,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,0,resumo,2 ocorrência(s) de palavras-chave
+eq_cartesiana,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,11,0,slides,2 ocorrência(s) de palavras-chave
+eq_cartesiana,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,10,0,slides,2 ocorrência(s) de palavras-chave
+eq_vetorial,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,1,resumo,
+eq_vetorial,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,2,1,slides,Equação vetorial de uma reta
+eq_vetorial,Álgebra Linear e Geometria Analítica/ALGA 1.pdf,4,1,caderno,Ex. 1.3
+eq_vetorial,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,4,0,slides,8 ocorrência(s) de palavras-chave
+eq_vetorial,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,5,0,slides,3 ocorrência(s) de palavras-chave
+eq_vetorial,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,1,0,ficha,1 ocorrência(s) de palavras-chave
+eq_linear,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,3,1,resumo,§2
+eq_linear,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,4,1,slides,1.2 Sistemas de equações lineares
+eq_linear,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,7,0,slides,7 ocorrência(s) de palavras-chave
+eq_linear,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,6 ocorrência(s) de palavras-chave
+eq_linear,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,9,0,slides,6 ocorrência(s) de palavras-chave
+eq_linear,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,1,0,ficha,2 ocorrência(s) de palavras-chave
+eq_linear,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+eq_linear,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,11,0,slides,1 ocorrência(s) de palavras-chave
+sist_homogeneo,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,3,1,resumo,Sistemas homogéneos
+sist_homogeneo,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,4,1,slides,
+sist_homogeneo,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,8,0,slides,4 ocorrência(s) de palavras-chave
+sist_homogeneo,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,7,0,slides,4 ocorrência(s) de palavras-chave
+sist_homogeneo,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,2,0,ficha,1 ocorrência(s) de palavras-chave
+classif_sist,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,3,1,resumo,Classificação
+classif_sist,Álgebra Linear e Geometria Analítica/ALGA 2.pdf,3,1,caderno,Ex. 1.8
+classif_sist,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,8,0,slides,8 ocorrência(s) de palavras-chave
+classif_sist,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,0,resumo,6 ocorrência(s) de palavras-chave
+classif_sist,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,0,resumo,5 ocorrência(s) de palavras-chave
+classif_sist,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,18,0,slides,3 ocorrência(s) de palavras-chave
+classif_sist,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,17,0,slides,2 ocorrência(s) de palavras-chave
+op_elementares,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,3,1,resumo,
+op_elementares,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,Operações elementares sobre linhas
+op_elementares,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,5,1,slides,
+op_elementares,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,2,0,slides,6 ocorrência(s) de palavras-chave
+op_elementares,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,11,0,slides,3 ocorrência(s) de palavras-chave
+op_elementares,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,0,resumo,2 ocorrência(s) de palavras-chave
+op_elementares,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,0,resumo,2 ocorrência(s) de palavras-chave
+op_elementares,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,9,0,slides,1 ocorrência(s) de palavras-chave
+op_elementares,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,8,0,slides,1 ocorrência(s) de palavras-chave
+matriz_ampliada,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,§3
+matriz_ampliada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,6,1,slides,1.3 Matrizes e a resolução de sistemas
+matriz_ampliada,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,1,1,ficha,Ex. 1.6–1.7
+matriz_ampliada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,17,0,slides,6 ocorrência(s) de palavras-chave
+matriz_ampliada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,6 ocorrência(s) de palavras-chave
+matriz_ampliada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,16,0,slides,1 ocorrência(s) de palavras-chave
+forma_escada,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,Definição
+forma_escada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,7,1,slides,
+forma_escada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,17,0,slides,11 ocorrência(s) de palavras-chave
+forma_escada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,9 ocorrência(s) de palavras-chave
+forma_escada,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,14,0,slides,7 ocorrência(s) de palavras-chave
+forma_escada,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,0,resumo,3 ocorrência(s) de palavras-chave
+forma_escada,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,8,0,resumo,1 ocorrência(s) de palavras-chave
+forma_escada,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,8,0,slides,1 ocorrência(s) de palavras-chave
+forma_reduzida,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,
+forma_reduzida,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,7,1,slides,Algoritmo para a forma reduzida
+forma_reduzida,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,8 ocorrência(s) de palavras-chave
+forma_reduzida,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,0,resumo,6 ocorrência(s) de palavras-chave
+forma_reduzida,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,3,0,slides,4 ocorrência(s) de palavras-chave
+forma_reduzida,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,11,0,slides,4 ocorrência(s) de palavras-chave
+forma_reduzida,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,4,0,slides,3 ocorrência(s) de palavras-chave
+forma_reduzida,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,9,0,slides,3 ocorrência(s) de palavras-chave
+caracteristica,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,
+caracteristica,Álgebra Linear e Geometria Analítica/ALGA 2.pdf,3,1,caderno,Ex. 1.8
+caracteristica,Álgebra Linear e Geometria Analítica/ALGA 3.pdf,2,1,caderno,Discussão com parâmetros
+caracteristica,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,17,0,slides,8 ocorrência(s) de palavras-chave
+gauss,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,'É o método exigido'
+gauss,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,8,1,slides,
+gauss,Álgebra Linear e Geometria Analítica/ALGA 2.pdf,2,1,caderno,Ex. 1.7
+gauss,Álgebra Linear e Geometria Analítica/ALGA 2.pdf,4,1,caderno,Ex. 1.9
+gauss,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,12 ocorrência(s) de palavras-chave
+gauss,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,1,0,resumo,2 ocorrência(s) de palavras-chave
+gauss,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,8,0,slides,2 ocorrência(s) de palavras-chave
+gauss,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,9,0,slides,2 ocorrência(s) de palavras-chave
+gauss,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,1,0,ficha,2 ocorrência(s) de palavras-chave
+gauss,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,8,0,resumo,1 ocorrência(s) de palavras-chave
+gauss_jordan,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,'usado mais à frente para as inversas'
+gauss_jordan,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,5,1,slides,2.3 Matrizes invertíveis
+gauss_jordan,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,3 ocorrência(s) de palavras-chave
+gauss_jordan,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,0,resumo,1 ocorrência(s) de palavras-chave
+gauss_jordan,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,9,0,slides,1 ocorrência(s) de palavras-chave
+discussao_sist,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,Resultado (discussão de sistemas)
+discussao_sist,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,9,1,slides,Corolário
+discussao_sist,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,3,0,ficha,2 ocorrência(s) de palavras-chave
+discussao_sist,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,0,resumo,1 ocorrência(s) de palavras-chave
+discussao_sist,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,17,0,slides,1 ocorrência(s) de palavras-chave
+discussao_sist,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,8,0,slides,1 ocorrência(s) de palavras-chave
+sist_parametros,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,1,resumo,Métodos-tipo: discutir um sistema com parâmetros
+sist_parametros,Álgebra Linear e Geometria Analítica/ALGA 3.pdf,2,1,caderno,"Exemplo do caderno (a, b)"
+sist_parametros,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,0,resumo,1 ocorrência(s) de palavras-chave
+sist_parametros,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,0,resumo,1 ocorrência(s) de palavras-chave
+sist_parametros,Álgebra Linear e Geometria Analítica/1-exerc-sistemas.pdf,3,0,ficha,1 ocorrência(s) de palavras-chave
+interpolacao,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,1,resumo,Aplicação: interpolação polinomial
+interpolacao,Álgebra Linear e Geometria Analítica/ALGA 2.pdf,5,1,caderno,Ex. 1.17
+interpolacao,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,18,0,slides,1 ocorrência(s) de palavras-chave
+matriz,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,5,1,resumo,§4 Matrizes especiais
+matriz,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,1,1,slides,2.1 Matrizes especiais
+matriz,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,2,0,slides,19 ocorrência(s) de palavras-chave
+matriz,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,13,0,slides,16 ocorrência(s) de palavras-chave
+matriz,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,6,0,slides,14 ocorrência(s) de palavras-chave
+matriz,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,11,0,slides,14 ocorrência(s) de palavras-chave
+matriz,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,10,0,slides,13 ocorrência(s) de palavras-chave
+matriz,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,10,0,slides,11 ocorrência(s) de palavras-chave
+op_matrizes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,5,1,resumo,Operações
+op_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,2,1,slides,2.2 Operações com matrizes
+op_matrizes,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,18,0,slides,6 ocorrência(s) de palavras-chave
+op_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,3,0,slides,5 ocorrência(s) de palavras-chave
+op_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,4,0,slides,4 ocorrência(s) de palavras-chave
+op_matrizes,Álgebra Linear e Geometria Analítica/2-exerc-matrizes.pdf,1,0,ficha,4 ocorrência(s) de palavras-chave
+op_matrizes,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,3,0,slides,2 ocorrência(s) de palavras-chave
+op_matrizes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,0,resumo,1 ocorrência(s) de palavras-chave
+produto_matrizes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,5,1,resumo,Produto; 'Atenção: não é comutativo'
+produto_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,3,1,slides,Sistemas e multiplicação de matrizes
+produto_matrizes,Álgebra Linear e Geometria Analítica/ALGA 3.pdf,3,1,caderno,
+produto_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,7,0,slides,2 ocorrência(s) de palavras-chave
+produto_matrizes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,0,resumo,1 ocorrência(s) de palavras-chave
+produto_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,10,0,slides,1 ocorrência(s) de palavras-chave
+produto_matrizes,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,6,0,slides,1 ocorrência(s) de palavras-chave
+forma_matricial,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,5,1,resumo,Sistemas na forma matricial
+forma_matricial,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,3,1,slides,
+forma_matricial,Álgebra Linear e Geometria Analítica/2-exerc-matrizes.pdf,2,0,ficha,2 ocorrência(s) de palavras-chave
+forma_matricial,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,0,resumo,1 ocorrência(s) de palavras-chave
+forma_matricial,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,0,resumo,1 ocorrência(s) de palavras-chave
+forma_matricial,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,11,0,slides,1 ocorrência(s) de palavras-chave
+forma_matricial,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,8,0,slides,1 ocorrência(s) de palavras-chave
+forma_matricial,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,5,0,slides,1 ocorrência(s) de palavras-chave
+inversa,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,1,resumo,§5 Matrizes invertíveis
+inversa,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,4,1,slides,2.3
+inversa,Álgebra Linear e Geometria Analítica/ALGA 5.pdf,2,1,caderno,Ex. 2.7
+inversa,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,7,0,slides,22 ocorrência(s) de palavras-chave
+inversa,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,9,0,slides,7 ocorrência(s) de palavras-chave
+inversa,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,8,0,slides,7 ocorrência(s) de palavras-chave
+inversa,Álgebra Linear e Geometria Analítica/2-exerc-matrizes.pdf,2,0,ficha,5 ocorrência(s) de palavras-chave
+inversa,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,3,0,slides,3 ocorrência(s) de palavras-chave
+inversa,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,0,resumo,2 ocorrência(s) de palavras-chave
+inversa_2x2,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,1,resumo,Resultado (inversa 2×2)
+inversa_2x2,Álgebra Linear e Geometria Analítica/ALGA 5.pdf,2,1,caderno,Ex. 2.7 a)
+inversa_2x2,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,8,0,slides,2 ocorrência(s) de palavras-chave
+inversa_2x2,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,8,0,resumo,1 ocorrência(s) de palavras-chave
+inversa_2x2,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,6,0,slides,1 ocorrência(s) de palavras-chave
+inversa_gj,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,1,resumo,Método (Gauss-Jordan)
+inversa_gj,Álgebra Linear e Geometria Analítica/ALGA 4.pdf,2,1,caderno,Exemplo 3×3
+inversa_gj,Álgebra Linear e Geometria Analítica/ALGA 5.pdf,2,1,caderno,"Ex. 2.11, 2.12"
+inversa_gj,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,9,0,slides,4 ocorrência(s) de palavras-chave
+inversa_gj,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,11,0,slides,2 ocorrência(s) de palavras-chave
+mat_elementares,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,6,1,resumo,Matrizes elementares
+mat_elementares,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,5,1,slides,
+mat_elementares,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,3,0,slides,36 ocorrência(s) de palavras-chave
+mat_elementares,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,11,0,slides,30 ocorrência(s) de palavras-chave
+mat_elementares,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,4,0,slides,16 ocorrência(s) de palavras-chave
+mat_elementares,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,2,0,slides,12 ocorrência(s) de palavras-chave
+mat_elementares,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,10,0,slides,11 ocorrência(s) de palavras-chave
+det_def,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,1,resumo,§6 Definição
+det_def,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,1,1,slides,3.1 Definição formal
+det_def,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,4,0,slides,16 ocorrência(s) de palavras-chave
+det_def,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,6,0,slides,12 ocorrência(s) de palavras-chave
+det_def,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,8,0,slides,7 ocorrência(s) de palavras-chave
+det_def,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,1,0,resumo,3 ocorrência(s) de palavras-chave
+det_def,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,0,resumo,2 ocorrência(s) de palavras-chave
+det_prop,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,1,resumo,Tabela de efeitos
+det_prop,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,2,1,slides,Propriedades das funções determinante
+det_prop,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,3,0,slides,2 ocorrência(s) de palavras-chave
+det_prop,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,9,0,slides,1 ocorrência(s) de palavras-chave
+det_invertivel,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,1,resumo,Resultado
+det_invertivel,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,2,1,slides,
+det_invertivel,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,0,resumo,1 ocorrência(s) de palavras-chave
+laplace,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,8,1,resumo,§7
+laplace,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,3,1,slides,3.2 Expansão de Laplace
+laplace,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,5,0,slides,7 ocorrência(s) de palavras-chave
+laplace,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,7,0,slides,4 ocorrência(s) de palavras-chave
+laplace,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,6,0,slides,4 ocorrência(s) de palavras-chave
+sarrus,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,8,1,resumo,
+sarrus,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,4,1,slides,Determinantes 3×3
+sarrus,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,8,0,slides,1 ocorrência(s) de palavras-chave
+det_estrategias,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,8,1,resumo,Estratégias
+det_estrategias,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,2,1,slides,Operações sobre colunas
+det_estrategias,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,5,1,slides,
+det_estrategias,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,4,0,slides,6 ocorrência(s) de palavras-chave
+det_estrategias,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,7,0,resumo,2 ocorrência(s) de palavras-chave
+det_estrategias,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,4,0,resumo,2 ocorrência(s) de palavras-chave
+det_estrategias,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,17,0,slides,2 ocorrência(s) de palavras-chave
+det_estrategias,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,11,0,slides,1 ocorrência(s) de palavras-chave
+det_estrategias,Álgebra Linear e Geometria Analítica/2-matrizes_2x1.pdf,4,0,slides,1 ocorrência(s) de palavras-chave
+areas_volumes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,1,resumo,§8
+areas_volumes,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,6,1,slides,3.3 Aplicações
+areas_volumes,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,10,0,slides,6 ocorrência(s) de palavras-chave
+areas_volumes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,2,0,resumo,5 ocorrência(s) de palavras-chave
+areas_volumes,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,11,0,slides,3 ocorrência(s) de palavras-chave
+areas_volumes,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,9,0,slides,3 ocorrência(s) de palavras-chave
+areas_volumes,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,0,resumo,2 ocorrência(s) de palavras-chave
+areas_volumes,Álgebra Linear e Geometria Analítica/1-sist_eq_lin_2x1.pdf,3,0,slides,2 ocorrência(s) de palavras-chave
+cramer,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,1,resumo,Regra de Cramer
+cramer,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,6,1,slides,
+cramer,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,11,0,slides,1 ocorrência(s) de palavras-chave
+produto_vetorial,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,1,resumo,Produto vetorial em R³
+produto_vetorial,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,7,1,slides,
+produto_vetorial,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,10,1,resumo,Métodos-tipo: plano perpendicular a dois planos
+produto_vetorial,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,13,0,slides,15 ocorrência(s) de palavras-chave
+produto_vetorial,Álgebra Linear e Geometria Analítica/3-determinantes_2x1.pdf,12,0,slides,4 ocorrência(s) de palavras-chave
+produto_misto,Álgebra Linear e Geometria Analítica/Resumo_ALGA_Cap1-3.pdf,9,1,resumo,
+sucessao,Cálculo I/Resumo_Calculo_I.pdf,2,1,resumo,§1
+sucessao,Cálculo I/CAL 2.pdf,2,1,caderno,
+sucessao,Cálculo I/Resumo_Calculo_I.pdf,3,0,resumo,7 ocorrência(s) de palavras-chave
+sucessao,Cálculo I/Resumo_Calculo_I.pdf,4,0,resumo,3 ocorrência(s) de palavras-chave
+limite_eps_n,Cálculo I/Resumo_Calculo_I.pdf,2,1,resumo,Definição + 'Como provar um limite pela definição'
+limite_eps_n,Cálculo I/CAL 2.pdf,2,1,caderno,Definição e exemplos
+limite_eps_n,Cálculo I/CAL 2.pdf,3,1,caderno,"Exemplo (3m−7,1)/(4m−10,3)"
+limite_eps_n,Cálculo I/Resumo_Calculo_I.pdf,4,0,resumo,3 ocorrência(s) de palavras-chave
+limite_eps_n,Cálculo I/Resumo_Calculo_I.pdf,6,0,resumo,2 ocorrência(s) de palavras-chave
+prop_limites,Cálculo I/Resumo_Calculo_I.pdf,2,1,resumo,§2 'Todas se provam pela definição ε–N'
+prop_limites,Cálculo I/Resumo_Calculo_I.pdf,3,1,resumo,Quociente
+prop_limites,Cálculo I/CAL 3.pdf,2,1,caderno,Prova da soma
+prop_limites,Cálculo I/CAL 5.pdf,2,1,caderno,Prova do produto
+prop_limites,Cálculo I/CAL 5.pdf,3,1,caderno,Prova do quociente
+prop_limites,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+desig_triangular,Cálculo I/Resumo_Calculo_I.pdf,2,1,resumo,Ideia da prova (soma)
+desig_triangular,Cálculo I/CAL 3.pdf,2,1,caderno,
+convergente_limitada,Cálculo I/Resumo_Calculo_I.pdf,2,1,resumo,Lema
+convergente_limitada,Cálculo I/CAL 5.pdf,2,1,caderno,Lema
+enquadramento,Cálculo I/Resumo_Calculo_I.pdf,3,1,resumo,
+enquadramento,Cálculo I/CAL 5.pdf,3,1,caderno,
+subsucessoes,Cálculo I/Resumo_Calculo_I.pdf,3,1,resumo,§4
+subsucessoes,Cálculo I/CAL 1.pdf,2,1,caderno,"Definição, teorema e exemplo (−1)ᵐ"
+subsucessoes,Cálculo I/Resumo_Calculo_I.pdf,4,0,resumo,1 ocorrência(s) de palavras-chave
+subsucessoes,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+monotonas,Cálculo I/Resumo_Calculo_I.pdf,4,1,resumo,§5
+monotonas,Cálculo I/CAL 1.pdf,4,1,caderno,
+monotonas,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,2 ocorrência(s) de palavras-chave
+monotonas,Cálculo I/Resumo_Calculo_I.pdf,2,0,resumo,1 ocorrência(s) de palavras-chave
+lhopital,Cálculo I/Resumo_Calculo_I.pdf,3,1,resumo,§3 Ferramentas
+lhopital,Cálculo I/CAL 1.pdf,3,1,caderno,Ferramentas
+lim_continua,Cálculo I/Resumo_Calculo_I.pdf,3,1,resumo,
+lim_continua,Cálculo I/CAL 1.pdf,3,1,caderno,
+serie,Cálculo I/Resumo_Calculo_I.pdf,4,1,resumo,§6
+serie,Cálculo I/CAL 1.pdf,5,1,caderno,Séries
+serie,Cálculo I/Resumo_Calculo_I.pdf,5,0,resumo,13 ocorrência(s) de palavras-chave
+serie,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,5 ocorrência(s) de palavras-chave
+serie_geometrica,Cálculo I/Resumo_Calculo_I.pdf,4,1,resumo,§7
+serie_geometrica,Cálculo I/CAL 1.pdf,6,1,caderno,
+serie_geometrica,Cálculo I/CAL 4.pdf,2,1,caderno,"Exercícios 26, 38, 59, 62"
+serie_geometrica,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+serie_telescopica,Cálculo I/Resumo_Calculo_I.pdf,5,1,resumo,§8
+serie_telescopica,Cálculo I/CAL 4.pdf,3,1,caderno,"Exercícios 44, 46"
+serie_telescopica,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+termo_geral,Cálculo I/Resumo_Calculo_I.pdf,5,1,resumo,Teste do termo geral
+termo_geral,Cálculo I/CAL 4.pdf,3,1,caderno,Teorema
+termo_geral,Cálculo I/CAL 4.pdf,4,1,caderno,
+termo_geral,Cálculo I/Resumo_Calculo_I.pdf,4,0,resumo,1 ocorrência(s) de palavras-chave
+termo_geral,Cálculo I/Resumo_Calculo_I.pdf,3,0,resumo,1 ocorrência(s) de palavras-chave
+harmonica,Cálculo I/Resumo_Calculo_I.pdf,5,1,resumo,OBS
+harmonica,Cálculo I/CAL 4.pdf,4,1,caderno,
+harmonica,Cálculo I/Resumo_Calculo_I.pdf,6,0,resumo,1 ocorrência(s) de palavras-chave
+prop_series,Cálculo I/Resumo_Calculo_I.pdf,5,1,resumo,§9
+prop_series,Cálculo I/CAL 4.pdf,4,1,caderno,
+prop_series,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+p_series,Cálculo I/Resumo_Calculo_I.pdf,5,1,resumo,§10 (Secção 11.3)
+p_series,Cálculo I/CAL 4.pdf,4,1,caderno,Secção 11.3
+criterio_comparacao,Cálculo I/Resumo_Calculo_I.pdf,6,1,resumo,Secção 11.4
+criterio_comparacao,Cálculo I/CAL 4.pdf,5,1,caderno,"Exercícios 1a, 3, 4, 9"
+comparacao_limite,Cálculo I/Resumo_Calculo_I.pdf,6,1,resumo,
+comparacao_limite,Cálculo I/CAL 4.pdf,6,1,caderno,"Exercícios 25, 10"
+series_alternadas,Cálculo I/CAL 8.pdf,2,1,caderno,"Séries alternadas + exercícios 11.5 (5, 7, 17)"
+series_alternadas,Cálculo I/CAL 8.pdf,3,1,caderno,Ex. 35
+conv_absoluta,Cálculo I/CAL 8.pdf,3,1,caderno,Definições e teorema
+conv_absoluta,Cálculo I/CAL 8.pdf,4,1,caderno,Exemplo sen(m)cos(m)/3ᵐ
+conv_absoluta,Cálculo I/CAL 8.pdf,5,1,caderno,Reordenação
+criterio_razao,Cálculo I/CAL 8.pdf,4,1,caderno,"Critério da razão + ex. 11.6 (7, 10)"
+criterio_raiz,Cálculo I/CAL 8.pdf,5,1,caderno,"Critério da raiz + ex. 11.6 (25, 27)"
+funcao,Cálculo I/CAL 8.pdf,6,1,caderno,Funções
+limite_funcao,Cálculo I/Resumo_Calculo_I.pdf,6,1,resumo,§11
+limite_funcao,Cálculo I/CAL 5.pdf,3,1,caderno,Funções: definição
+limite_funcao,Cálculo I/CAL 6.pdf,3,1,caderno,
+continuidade,Cálculo I/Resumo_Calculo_I.pdf,6,1,resumo,Continuidade
+continuidade,Cálculo I/CAL 6.pdf,3,1,caderno,Continuidade
+continuidade,Cálculo I/Resumo_Calculo_I.pdf,5,0,resumo,1 ocorrência(s) de palavras-chave
+continuidade,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+derivada,Cálculo I/Resumo_Calculo_I.pdf,7,1,resumo,§12
+derivada,Cálculo I/CAL 6.pdf,3,1,caderno,Δy/Δx
+derivada,Cálculo I/CAL 11.pdf,2,1,caderno,Definição e exemplo x² − 8x + 9
+derivada,Cálculo I/Resumo_Calculo_I.pdf,1,0,resumo,1 ocorrência(s) de palavras-chave
+reta_tangente,Cálculo I/CAL 11.pdf,2,1,caderno,Definição
+reta_tangente,Cálculo I/CAL 11.pdf,4,1,caderno,Exemplo
+regras_derivacao,Cálculo I/Resumo_Calculo_I.pdf,7,1,resumo,Regras de derivação + ideia da prova (produto)
+regras_derivacao,Cálculo I/CAL 6.pdf,3,1,caderno,Soma
+regras_derivacao,Cálculo I/CAL 11.pdf,3,1,caderno,Ferramentas
+derivadas_elementares,Cálculo I/Resumo_Calculo_I.pdf,7,1,resumo,Derivadas a saber
+derivadas_elementares,Cálculo I/CAL 6.pdf,2,1,caderno,Exemplos
+derivadas_elementares,Cálculo I/CAL 11.pdf,4,1,caderno,Ferramentas
+dif_continua,Cálculo I/CAL 11.pdf,3,1,caderno,Teorema + nota
+regra_cadeia,Cálculo I/CAL 9.pdf,3,1,caderno,Regra + prova
+regra_cadeia,Cálculo I/CAL 10.pdf,2,1,caderno,Derivada da função composta
+regra_cadeia,Cálculo I/CAL 11.pdf,4,1,caderno,Secção 3.4 + exercícios
+derivada_inversa,Cálculo I/CAL 9.pdf,3,1,caderno,Função inversa de g(x)
+derivada_inversa,Cálculo I/CAL 9.pdf,4,1,caderno,'MILAGRE'
+derivada_inversa,Cálculo I/CAL 10.pdf,2,1,caderno,
+ordem_superior,Cálculo I/CAL 11.pdf,3,1,caderno,Notação
+monotonia_derivada,Cálculo I/CAL 7.pdf,2,1,caderno,
+monotonia_derivada,Cálculo I/CAL 11.pdf,6,1,caderno,Teorema
+monotonia_derivada,Cálculo I/Resumo_Calculo_I.pdf,4,0,resumo,3 ocorrência(s) de palavras-chave
+extremos,Cálculo I/CAL 7.pdf,2,1,caderno,x₀ máx/mín ⇒ f'(x₀) = 0
+extremos,Cálculo I/CAL 11.pdf,5,1,caderno,"Capítulo 4: definições, Weierstrass"
+extremos,Cálculo I/CAL 11.pdf,6,1,caderno,Fermat; onde procurar; 2.ª derivada
+taylor1,Cálculo I/CAL 7.pdf,3,1,caderno,Conclusão: Taylor 1.ª ordem
+taylor1,Cálculo I/CAL 9.pdf,2,1,caderno,Teorema + prova
+newton,Cálculo I/CAL 9.pdf,2,1,caderno,Derivação a partir de Taylor
+newton,Cálculo I/CAL 9.pdf,3,1,caderno,'→ Sucessão'
+newton,Cálculo I/CAL 10.pdf,2,1,caderno,Gráficos: quando funciona/não funciona
+newton,Cálculo I/CAL 11.pdf,6,1,caderno,Passos do método
+newton,Cálculo I/CAL 12.pdf,2,1,caderno,"Secção 4.8: ex. 3, 4, 6, 7, 8"
+newton,Cálculo I/CAL 12.pdf,3,1,caderno,"Ex. 11, 15, 33"
+bolzano,Cálculo I/CAL 12.pdf,3,1,caderno,Ex. 15: 'Pelo corolário do Teorema de Bolzano-Cauchy'
+primitiva,Cálculo I/CAL 10.pdf,2,1,caderno,Definição
+primitiva,Cálculo I/CAL 10.pdf,3,1,caderno,Polinómios
+proposicao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,3,1,resumo,§2
+proposicao,Estruturas Discretas/logica.pdf,8,1,slides,Cálculo Proposicional (CP)
+proposicao,Estruturas Discretas/inducao.pdf,13,0,slides,6 ocorrência(s) de palavras-chave
+proposicao,Estruturas Discretas/logica.pdf,39,0,slides,4 ocorrência(s) de palavras-chave
+proposicao,Estruturas Discretas/logica.pdf,9,0,slides,3 ocorrência(s) de palavras-chave
+proposicao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,0,resumo,1 ocorrência(s) de palavras-chave
+proposicao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,0,resumo,1 ocorrência(s) de palavras-chave
+conectivas,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,3,1,resumo,Definição
+conectivas,Estruturas Discretas/logica.pdf,9,1,slides,Conectivas lógicas
+conectivas,Estruturas Discretas/logica.pdf,10,1,slides,
+conectivas,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,0,resumo,11 ocorrência(s) de palavras-chave
+conectivas,Estruturas Discretas/logica.pdf,34,0,slides,3 ocorrência(s) de palavras-chave
+conectivas,Estruturas Discretas/exercicios.pdf,7,0,ficha,3 ocorrência(s) de palavras-chave
+conectivas,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,1 ocorrência(s) de palavras-chave
+implicacao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,3,1,resumo,A implicação P → Q
+implicacao,Estruturas Discretas/logica.pdf,14,1,slides,
+implicacao,Estruturas Discretas/logica.pdf,15,1,slides,Formas de ler P → Q
+implicacao,Estruturas Discretas/exercicios.pdf,5,0,ficha,8 ocorrência(s) de palavras-chave
+implicacao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,0,resumo,8 ocorrência(s) de palavras-chave
+implicacao,Estruturas Discretas/exercicios.pdf,3,0,ficha,6 ocorrência(s) de palavras-chave
+implicacao,Estruturas Discretas/exercicios.pdf,4,0,ficha,5 ocorrência(s) de palavras-chave
+implicacao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,7,0,resumo,5 ocorrência(s) de palavras-chave
+implicacao,Estruturas Discretas/logica.pdf,17,0,slides,4 ocorrência(s) de palavras-chave
+tabela_verdade,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,4,1,resumo,
+tabela_verdade,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,1,resumo,"Exercícios resolvidos 2, 13"
+tabela_verdade,Estruturas Discretas/ED 1.pdf,2,1,caderno,Ex. 2d
+tabela_verdade,Estruturas Discretas/ED 1.pdf,5,1,caderno,Ex. 13
+tabela_verdade,Estruturas Discretas/logica.pdf,35,0,slides,1 ocorrência(s) de palavras-chave
+tabela_verdade,Estruturas Discretas/logica.pdf,34,0,slides,1 ocorrência(s) de palavras-chave
+tabela_verdade,Estruturas Discretas/logica.pdf,17,0,slides,1 ocorrência(s) de palavras-chave
+tabela_verdade,Estruturas Discretas/exercicios.pdf,4,0,ficha,1 ocorrência(s) de palavras-chave
+tabela_verdade,Estruturas Discretas/exercicios.pdf,3,0,ficha,1 ocorrência(s) de palavras-chave
+tabela_verdade,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,0,resumo,1 ocorrência(s) de palavras-chave
+tautologia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,3,1,resumo,Definição
+tautologia,Estruturas Discretas/logica.pdf,18,1,slides,Tautologias e Contradições
+tautologia,Estruturas Discretas/ED 1.pdf,5,1,caderno,Ex. 13
+tautologia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,0,resumo,11 ocorrência(s) de palavras-chave
+tautologia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,0,resumo,7 ocorrência(s) de palavras-chave
+tautologia,Estruturas Discretas/inducao.pdf,22,0,slides,6 ocorrência(s) de palavras-chave
+tautologia,Estruturas Discretas/inducao.pdf,25,0,slides,3 ocorrência(s) de palavras-chave
+tautologia,Estruturas Discretas/inducao.pdf,23,0,slides,3 ocorrência(s) de palavras-chave
+tautologia,Estruturas Discretas/exercicios.pdf,6,0,ficha,3 ocorrência(s) de palavras-chave
+equivalencia_logica,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,4,1,resumo,Definição
+equivalencia_logica,Estruturas Discretas/logica.pdf,20,1,slides,
+equivalencia_logica,Estruturas Discretas/ED 1.pdf,3,1,caderno,Ex. 6
+equivalencia_logica,Estruturas Discretas/ED 1.pdf,4,1,caderno,"Ex. 7, 9, 14"
+equivalencia_logica,Estruturas Discretas/logica.pdf,24,0,slides,1 ocorrência(s) de palavras-chave
+equivalencia_logica,Estruturas Discretas/logica.pdf,22,0,slides,1 ocorrência(s) de palavras-chave
+equivalencia_logica,Estruturas Discretas/exercicios.pdf,4,0,ficha,1 ocorrência(s) de palavras-chave
+leis_equivalencia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,4,1,resumo,Leis de equivalência
+leis_equivalencia,Estruturas Discretas/logica.pdf,21,1,slides,
+leis_equivalencia,Estruturas Discretas/exercicios.pdf,9,1,ficha,Leis da álgebra booleana
+leis_equivalencia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,0,resumo,3 ocorrência(s) de palavras-chave
+leis_equivalencia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,0,resumo,3 ocorrência(s) de palavras-chave
+leis_equivalencia,Estruturas Discretas/exercicios.pdf,16,0,ficha,2 ocorrência(s) de palavras-chave
+leis_equivalencia,Estruturas Discretas/conjuntos.pdf,17,0,slides,2 ocorrência(s) de palavras-chave
+leis_equivalencia,Estruturas Discretas/logica.pdf,34,0,slides,1 ocorrência(s) de palavras-chave
+leis_equivalencia,Estruturas Discretas/logica.pdf,28,0,slides,1 ocorrência(s) de palavras-chave
+de_morgan,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,4,1,resumo,
+de_morgan,Estruturas Discretas/logica.pdf,22,1,slides,Leis de DeMorgan
+de_morgan,Estruturas Discretas/conjuntos.pdf,18,1,slides,Conjuntos: Leis de De Morgan
+de_morgan,Estruturas Discretas/ED 2.pdf,4,1,caderno,Ex. 16
+de_morgan,Estruturas Discretas/logica.pdf,26,0,slides,4 ocorrência(s) de palavras-chave
+de_morgan,Estruturas Discretas/exercicios.pdf,9,0,ficha,4 ocorrência(s) de palavras-chave
+de_morgan,Estruturas Discretas/logica.pdf,25,0,slides,2 ocorrência(s) de palavras-chave
+de_morgan,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,2 ocorrência(s) de palavras-chave
+de_morgan,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,0,resumo,2 ocorrência(s) de palavras-chave
+de_morgan,Estruturas Discretas/exercicios.pdf,16,0,ficha,1 ocorrência(s) de palavras-chave
+literal,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,1,resumo,
+literal,Estruturas Discretas/logica.pdf,25,1,slides,
+literal,Estruturas Discretas/logica.pdf,33,0,slides,1 ocorrência(s) de palavras-chave
+literal,Estruturas Discretas/logica.pdf,27,0,slides,1 ocorrência(s) de palavras-chave
+fnn,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,1,resumo,
+fnn,Estruturas Discretas/logica.pdf,25,1,slides,Forma normal negativa
+fnn,Estruturas Discretas/logica.pdf,28,0,slides,1 ocorrência(s) de palavras-chave
+fnn,Estruturas Discretas/logica.pdf,26,0,slides,1 ocorrência(s) de palavras-chave
+fnd,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,1,resumo,
+fnd,Estruturas Discretas/logica.pdf,27,1,slides,
+fnd,Estruturas Discretas/logica.pdf,30,1,slides,
+fnd,Estruturas Discretas/ED 2.pdf,2,1,caderno,"Ex. 11, 12"
+fnd,Estruturas Discretas/logica.pdf,34,0,slides,2 ocorrência(s) de palavras-chave
+fnd,Estruturas Discretas/logica.pdf,31,0,slides,2 ocorrência(s) de palavras-chave
+fnd,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,0,resumo,2 ocorrência(s) de palavras-chave
+fnd,Estruturas Discretas/exercicios.pdf,4,0,ficha,1 ocorrência(s) de palavras-chave
+fnd,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,14,0,resumo,1 ocorrência(s) de palavras-chave
+fnc,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,1,resumo,
+fnc,Estruturas Discretas/logica.pdf,33,1,slides,
+fnc,Estruturas Discretas/logica.pdf,35,1,slides,Exercícios
+fnc,Estruturas Discretas/ED 2.pdf,2,1,caderno,"Ex. 11, 12"
+fnc,Estruturas Discretas/logica.pdf,34,0,slides,3 ocorrência(s) de palavras-chave
+fnc,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,0,resumo,2 ocorrência(s) de palavras-chave
+fnc,Estruturas Discretas/logica.pdf,48,0,slides,1 ocorrência(s) de palavras-chave
+fnc,Estruturas Discretas/exercicios.pdf,4,0,ficha,1 ocorrência(s) de palavras-chave
+fnc,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,14,0,resumo,1 ocorrência(s) de palavras-chave
+alg_fn,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,1,resumo,Prova (algoritmo)
+alg_fn,Estruturas Discretas/logica.pdf,28,1,slides,Método para encontrar uma fórmula equivalente em DNF
+decisao_fn,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,5,1,resumo,Decidir com as formas normais
+decisao_fn,Estruturas Discretas/logica.pdf,31,1,slides,
+decisao_fn,Estruturas Discretas/logica.pdf,34,1,slides,
+predicados,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,§4
+predicados,Estruturas Discretas/logica.pdf,37,1,slides,
+predicados,Estruturas Discretas/logica.pdf,38,1,slides,
+predicados,Estruturas Discretas/exercicios.pdf,7,0,ficha,5 ocorrência(s) de palavras-chave
+predicados,Estruturas Discretas/conjuntos.pdf,18,0,slides,3 ocorrência(s) de palavras-chave
+predicados,Estruturas Discretas/logica.pdf,48,0,slides,2 ocorrência(s) de palavras-chave
+predicados,Estruturas Discretas/inducao.pdf,4,0,slides,2 ocorrência(s) de palavras-chave
+predicados,Estruturas Discretas/exercicios.pdf,13,0,ficha,2 ocorrência(s) de palavras-chave
+predicados,Estruturas Discretas/exercicios.pdf,12,0,ficha,2 ocorrência(s) de palavras-chave
+quantificadores,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,
+quantificadores,Estruturas Discretas/logica.pdf,39,1,slides,Quantificadores
+quantificadores,Estruturas Discretas/logica.pdf,40,1,slides,Exemplos
+quantificadores,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,42 ocorrência(s) de palavras-chave
+quantificadores,Estruturas Discretas/logica.pdf,41,0,slides,12 ocorrência(s) de palavras-chave
+quantificadores,Estruturas Discretas/logica.pdf,42,0,slides,8 ocorrência(s) de palavras-chave
+quantificadores,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,14,0,resumo,7 ocorrência(s) de palavras-chave
+quantificadores,Estruturas Discretas/inducao.pdf,10,0,slides,3 ocorrência(s) de palavras-chave
+quantificadores,Estruturas Discretas/inducao.pdf,18,0,slides,2 ocorrência(s) de palavras-chave
+negacao_quant,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,
+negacao_quant,Estruturas Discretas/logica.pdf,42,1,slides,
+negacao_quant,Estruturas Discretas/ED 2.pdf,5,1,caderno,Ex. 26
+ordem_quant,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,OBS: A ordem importa!
+ordem_quant,Estruturas Discretas/logica.pdf,41,1,slides,Cuidado com a comutatividade
+ordem_quant,Estruturas Discretas/exercicios.pdf,9,0,ficha,2 ocorrência(s) de palavras-chave
+ordem_quant,Estruturas Discretas/logica.pdf,21,0,slides,1 ocorrência(s) de palavras-chave
+ordem_quant,Estruturas Discretas/exercicios.pdf,16,0,ficha,1 ocorrência(s) de palavras-chave
+ordem_quant,Estruturas Discretas/conjuntos.pdf,17,0,slides,1 ocorrência(s) de palavras-chave
+ordem_quant,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,0,resumo,1 ocorrência(s) de palavras-chave
+ordem_quant,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,4,0,resumo,1 ocorrência(s) de palavras-chave
+formalizacao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,Formalizar frases
+formalizacao,Estruturas Discretas/logica.pdf,49,1,slides,
+formalizacao,Estruturas Discretas/ED 2.pdf,5,1,caderno,"Ex. 25, 27"
+formalizacao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,2 ocorrência(s) de palavras-chave
+formalizacao,Estruturas Discretas/logica.pdf,37,0,slides,1 ocorrência(s) de palavras-chave
+formalizacao,Estruturas Discretas/logica.pdf,3,0,slides,1 ocorrência(s) de palavras-chave
+formalizacao,Estruturas Discretas/exercicios.pdf,8,0,ficha,1 ocorrência(s) de palavras-chave
+formalizacao,Estruturas Discretas/exercicios.pdf,7,0,ficha,1 ocorrência(s) de palavras-chave
+regra_inferencia,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,7,1,resumo,§5
+regra_inferencia,Estruturas Discretas/logica.pdf,43,1,slides,
+regra_inferencia,Estruturas Discretas/exercicios.pdf,6,0,ficha,4 ocorrência(s) de palavras-chave
+regra_inferencia,Estruturas Discretas/exercicios.pdf,5,0,ficha,4 ocorrência(s) de palavras-chave
+regra_inferencia,Estruturas Discretas/logica.pdf,46,0,slides,3 ocorrência(s) de palavras-chave
+regra_inferencia,Estruturas Discretas/inducao.pdf,10,0,slides,2 ocorrência(s) de palavras-chave
+regra_inferencia,Estruturas Discretas/logica.pdf,47,0,slides,1 ocorrência(s) de palavras-chave
+regra_inferencia,Estruturas Discretas/exercicios.pdf,10,0,ficha,1 ocorrência(s) de palavras-chave
+modus_ponens,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,7,1,resumo,
+modus_ponens,Estruturas Discretas/logica.pdf,44,1,slides,
+modus_ponens,Estruturas Discretas/ED 2.pdf,3,1,caderno,Ex. 15
+modus_ponens,Estruturas Discretas/exercicios.pdf,10,0,ficha,1 ocorrência(s) de palavras-chave
+modus_ponens,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,1 ocorrência(s) de palavras-chave
+modus_tollens,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,7,1,resumo,
+modus_tollens,Estruturas Discretas/logica.pdf,47,1,slides,
+modus_tollens,Estruturas Discretas/ED 2.pdf,4,1,caderno,Ex. 16
+modus_tollens,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,2 ocorrência(s) de palavras-chave
+modus_tollens,Estruturas Discretas/exercicios.pdf,10,0,ficha,1 ocorrência(s) de palavras-chave
+outras_regras,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,7,1,resumo,Regras
+outras_regras,Estruturas Discretas/logica.pdf,45,1,slides,
+outras_regras,Estruturas Discretas/exercicios.pdf,10,1,ficha,Algumas regras de inferência
+outras_regras,Estruturas Discretas/inducao.pdf,22,0,slides,6 ocorrência(s) de palavras-chave
+outras_regras,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,12,0,resumo,5 ocorrência(s) de palavras-chave
+outras_regras,Estruturas Discretas/logica.pdf,18,0,slides,3 ocorrência(s) de palavras-chave
+outras_regras,Estruturas Discretas/inducao.pdf,25,0,slides,3 ocorrência(s) de palavras-chave
+outras_regras,Estruturas Discretas/inducao.pdf,23,0,slides,3 ocorrência(s) de palavras-chave
+outras_regras,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,3,0,resumo,3 ocorrência(s) de palavras-chave
+falacias,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,7,1,resumo,OBS: Argumentos inválidos
+prova_formal,Estruturas Discretas/logica.pdf,46,1,slides,
+prova_formal,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,1,resumo,"Inferência 15, 16"
+prova_formal,Estruturas Discretas/ED 2.pdf,3,1,caderno,"Ex. 15, 16"
+prova_formal,Estruturas Discretas/exercicios.pdf,7,0,ficha,1 ocorrência(s) de palavras-chave
+conjunto,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,8,1,resumo,§6
+conjunto,Estruturas Discretas/conjuntos.pdf,2,1,slides,Teoria de Conjuntos
+conjunto,Estruturas Discretas/conjuntos.pdf,4,1,slides,Compreensão
+conjunto,Estruturas Discretas/exercicios.pdf,11,0,ficha,14 ocorrência(s) de palavras-chave
+conjunto,Estruturas Discretas/exercicios.pdf,14,0,ficha,13 ocorrência(s) de palavras-chave
+conjunto,Estruturas Discretas/exercicios.pdf,26,0,ficha,10 ocorrência(s) de palavras-chave
+conjunto,Estruturas Discretas/conjuntos.pdf,6,0,slides,8 ocorrência(s) de palavras-chave
+conjunto,Estruturas Discretas/conjuntos.pdf,17,0,slides,7 ocorrência(s) de palavras-chave
+conjunto,Estruturas Discretas/conjuntos.pdf,18,0,slides,6 ocorrência(s) de palavras-chave
+subconjunto,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,8,1,resumo,Subconjuntos e igualdade
+subconjunto,Estruturas Discretas/conjuntos.pdf,6,1,slides,
+subconjunto,Estruturas Discretas/conjuntos.pdf,8,1,slides,Conjuntos de conjuntos
+subconjunto,Estruturas Discretas/conjuntos.pdf,25,0,slides,12 ocorrência(s) de palavras-chave
+subconjunto,Estruturas Discretas/conjuntos.pdf,22,0,slides,12 ocorrência(s) de palavras-chave
+subconjunto,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,10,0,resumo,12 ocorrência(s) de palavras-chave
+subconjunto,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,14,0,resumo,6 ocorrência(s) de palavras-chave
+subconjunto,Estruturas Discretas/exercicios.pdf,26,0,ficha,2 ocorrência(s) de palavras-chave
+subconjunto,Estruturas Discretas/exercicios.pdf,15,0,ficha,2 ocorrência(s) de palavras-chave
+partes,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,8,1,resumo,
+partes,Estruturas Discretas/conjuntos.pdf,9,1,slides,
+partes,Estruturas Discretas/ED 5.pdf,2,1,caderno,Ex. 33–35
+partes,Estruturas Discretas/exercicios.pdf,11,0,ficha,8 ocorrência(s) de palavras-chave
+partes,Estruturas Discretas/exercicios.pdf,15,0,ficha,4 ocorrência(s) de palavras-chave
+partes,Estruturas Discretas/exercicios.pdf,12,0,ficha,3 ocorrência(s) de palavras-chave
+partes,Estruturas Discretas/conjuntos.pdf,14,0,slides,2 ocorrência(s) de palavras-chave
+partes,Estruturas Discretas/conjuntos.pdf,12,0,slides,2 ocorrência(s) de palavras-chave
+partes,Estruturas Discretas/inducao.pdf,9,0,slides,1 ocorrência(s) de palavras-chave
+op_conjuntos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,8,1,resumo,Operações
+op_conjuntos,Estruturas Discretas/conjuntos.pdf,10,1,slides,
+op_conjuntos,Estruturas Discretas/ED 5.pdf,2,1,caderno,Ex. 30
+op_conjuntos,Estruturas Discretas/exercicios.pdf,35,0,ficha,6 ocorrência(s) de palavras-chave
+op_conjuntos,Estruturas Discretas/conjuntos.pdf,19,0,slides,5 ocorrência(s) de palavras-chave
+op_conjuntos,Estruturas Discretas/exercicios.pdf,9,0,ficha,2 ocorrência(s) de palavras-chave
+op_conjuntos,Estruturas Discretas/logica.pdf,49,0,slides,1 ocorrência(s) de palavras-chave
+op_conjuntos,Estruturas Discretas/exercicios.pdf,16,0,ficha,1 ocorrência(s) de palavras-chave
+op_conjuntos,Estruturas Discretas/conjuntos.pdf,20,0,slides,1 ocorrência(s) de palavras-chave
+produto_cartesiano,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,8,1,resumo,
+produto_cartesiano,Estruturas Discretas/conjuntos.pdf,16,1,slides,Produto cartesiano de conjuntos
+cardinalidade,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,1,resumo,
+cardinalidade,Estruturas Discretas/conjuntos.pdf,14,1,slides,
+cardinalidade,Estruturas Discretas/exercicios.pdf,12,0,ficha,2 ocorrência(s) de palavras-chave
+cardinalidade,Estruturas Discretas/exercicios.pdf,15,0,ficha,1 ocorrência(s) de palavras-chave
+inclusao_exclusao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,1,resumo,Exemplo das línguas
+inclusao_exclusao,Estruturas Discretas/conjuntos.pdf,15,1,slides,Ex. 4 (100 estudantes)
+inclusao_exclusao,Estruturas Discretas/conjuntos.pdf,14,0,slides,1 ocorrência(s) de palavras-chave
+inclusao_exclusao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,14,0,resumo,1 ocorrência(s) de palavras-chave
+algebra_conjuntos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,1,resumo,Propriedades (álgebra booleana)
+algebra_conjuntos,Estruturas Discretas/conjuntos.pdf,17,1,slides,
+algebra_conjuntos,Estruturas Discretas/exercicios.pdf,16,1,ficha,
+algebra_conjuntos,Estruturas Discretas/exercicios.pdf,36,0,ficha,3 ocorrência(s) de palavras-chave
+algebra_conjuntos,Estruturas Discretas/logica.pdf,7,0,slides,1 ocorrência(s) de palavras-chave
+algebra_conjuntos,Estruturas Discretas/exercicios.pdf,26,0,ficha,1 ocorrência(s) de palavras-chave
+algebra_conjuntos,Estruturas Discretas/conjuntos.pdf,18,0,slides,1 ocorrência(s) de palavras-chave
+algebra_conjuntos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,8,0,resumo,1 ocorrência(s) de palavras-chave
+provas_conjuntos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,1,resumo,Como fazer provas com conjuntos
+provas_conjuntos,Estruturas Discretas/conjuntos.pdf,19,1,slides,Provas...
+provas_conjuntos,Estruturas Discretas/conjuntos.pdf,22,1,slides,
+provas_conjuntos,Estruturas Discretas/ED 5.pdf,3,1,caderno,"Ex. 36, 47, 53"
+provas_conjuntos,Estruturas Discretas/exercicios.pdf,13,0,ficha,5 ocorrência(s) de palavras-chave
+provas_conjuntos,Estruturas Discretas/exercicios.pdf,35,0,ficha,2 ocorrência(s) de palavras-chave
+provas_conjuntos,Estruturas Discretas/exercicios.pdf,24,0,ficha,2 ocorrência(s) de palavras-chave
+provas_conjuntos,Estruturas Discretas/inducao.pdf,18,0,slides,1 ocorrência(s) de palavras-chave
+provas_conjuntos,Estruturas Discretas/conjuntos.pdf,25,0,slides,1 ocorrência(s) de palavras-chave
+provas_conjuntos,Estruturas Discretas/conjuntos.pdf,24,0,slides,1 ocorrência(s) de palavras-chave
+inducao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,11,1,resumo,§7
+inducao,Estruturas Discretas/inducao.pdf,3,1,slides,
+inducao,Estruturas Discretas/inducao.pdf,5,1,slides,Passos
+inducao,Estruturas Discretas/ED 3.pdf,2,1,caderno,Exemplos
+inducao,Estruturas Discretas/ED 6.pdf,2,1,caderno,"Ex. 61, 63"
+inducao,Estruturas Discretas/ED 6.pdf,3,1,caderno,"Ex. 64, 65"
+inducao,Estruturas Discretas/inducao.pdf,11,0,slides,7 ocorrência(s) de palavras-chave
+inducao,Estruturas Discretas/inducao.pdf,8,0,slides,6 ocorrência(s) de palavras-chave
+inducao,Estruturas Discretas/logica.pdf,4,0,slides,1 ocorrência(s) de palavras-chave
+inducao,Estruturas Discretas/exercicios.pdf,17,0,ficha,1 ocorrência(s) de palavras-chave
+inducao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,14,0,resumo,1 ocorrência(s) de palavras-chave
+inducao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,2,0,resumo,1 ocorrência(s) de palavras-chave
+inducao_forte,Estruturas Discretas/inducao.pdf,10,1,slides,
+inducao_forte,Estruturas Discretas/inducao.pdf,11,1,slides,Produto de primos
+inducao_forte,Estruturas Discretas/inducao.pdf,12,1,slides,Jogo das cartas
+inducao_forte,Estruturas Discretas/inducao.pdf,17,0,slides,1 ocorrência(s) de palavras-chave
+recorrencia,Estruturas Discretas/inducao.pdf,15,1,slides,Torre de Hanói
+recorrencia,Estruturas Discretas/inducao.pdf,16,1,slides,Fórmula de recorrência
+recorrencia,Estruturas Discretas/exercicios.pdf,19,1,ficha,Ex. 88
+recorrencia,Estruturas Discretas/exercicios.pdf,18,0,ficha,2 ocorrência(s) de palavras-chave
+soma_geometrica,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,11,1,resumo,Exemplo
+soma_geometrica,Estruturas Discretas/inducao.pdf,9,1,slides,Exercícios
+soma_geometrica,Estruturas Discretas/ED 3.pdf,2,1,caderno,
+soma_geometrica,Estruturas Discretas/exercicios.pdf,28,0,ficha,2 ocorrência(s) de palavras-chave
+prova_direta,Estruturas Discretas/inducao.pdf,19,1,slides,
+prova_direta,Estruturas Discretas/inducao.pdf,20,1,slides,
+prova_direta,Estruturas Discretas/inducao.pdf,21,1,slides,
+prova_contradicao,Estruturas Discretas/inducao.pdf,22,1,slides,
+prova_contradicao,Estruturas Discretas/inducao.pdf,23,1,slides,√2 irracional
+prova_contradicao,Estruturas Discretas/inducao.pdf,25,1,slides,log₂ 3
+prova_contradicao,Estruturas Discretas/exercicios.pdf,20,0,ficha,4 ocorrência(s) de palavras-chave
+prova_contradicao,Estruturas Discretas/exercicios.pdf,21,0,ficha,1 ocorrência(s) de palavras-chave
+prova_contradicao,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,9,0,resumo,1 ocorrência(s) de palavras-chave
+divisibilidade,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,Formalizar: a | b
+divisibilidade,Estruturas Discretas/exercicios.pdf,21,1,ficha,"Acerca de Números, ex. 98"
+divisibilidade,Estruturas Discretas/exercicios.pdf,25,0,ficha,1 ocorrência(s) de palavras-chave
+divisibilidade,Estruturas Discretas/exercicios.pdf,23,0,ficha,1 ocorrência(s) de palavras-chave
+mdc_euclides,Estruturas Discretas/exercicios.pdf,22,1,ficha,Ex. 107: algoritmo de Euclides
+mdc_euclides,Introdução aos Computadores/01-historia-dos-computadores.pdf,5,1,slides,Algoritmo de Euclides (IC)
+mdc_euclides,Estruturas Discretas/exercicios.pdf,23,0,ficha,9 ocorrência(s) de palavras-chave
+mdc_euclides,Estruturas Discretas/exercicios.pdf,25,0,ficha,3 ocorrência(s) de palavras-chave
+mdc_euclides,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,0,resumo,2 ocorrência(s) de palavras-chave
+mdc_euclides,Estruturas Discretas/logica.pdf,49,0,slides,1 ocorrência(s) de palavras-chave
+primos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,6,1,resumo,Primo(p)
+primos,Estruturas Discretas/inducao.pdf,11,1,slides,Produto de primos
+primos,Estruturas Discretas/exercicios.pdf,23,1,ficha,Ex. 121
+primos,Estruturas Discretas/exercicios.pdf,22,0,ficha,5 ocorrência(s) de palavras-chave
+primos,Estruturas Discretas/logica.pdf,49,0,slides,3 ocorrência(s) de palavras-chave
+primos,Estruturas Discretas/exercicios.pdf,8,0,ficha,3 ocorrência(s) de palavras-chave
+primos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,13,0,resumo,2 ocorrência(s) de palavras-chave
+relacoes,Estruturas Discretas/exercicios.pdf,24,1,ficha,Relações e funções
+relacoes,Estruturas Discretas/exercicios.pdf,27,1,ficha,Partições
+relacoes,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,4,0,resumo,4 ocorrência(s) de palavras-chave
+relacoes,Estruturas Discretas/logica.pdf,20,0,slides,2 ocorrência(s) de palavras-chave
+relacoes,Estruturas Discretas/logica.pdf,46,0,slides,1 ocorrência(s) de palavras-chave
+relacoes,Estruturas Discretas/logica.pdf,41,0,slides,1 ocorrência(s) de palavras-chave
+relacoes,Estruturas Discretas/exercicios.pdf,19,0,ficha,1 ocorrência(s) de palavras-chave
+relacoes,Estruturas Discretas/exercicios.pdf,9,0,ficha,1 ocorrência(s) de palavras-chave
+funcoes_discretas,Estruturas Discretas/exercicios.pdf,29,1,ficha,Ex. 172
+funcoes_discretas,Estruturas Discretas/exercicios.pdf,28,0,ficha,4 ocorrência(s) de palavras-chave
+funcoes_discretas,Estruturas Discretas/exercicios.pdf,32,0,ficha,2 ocorrência(s) de palavras-chave
+contagem,Estruturas Discretas/exercicios.pdf,30,1,ficha,Contagem
+contagem,Estruturas Discretas/exercicios.pdf,33,1,ficha,Ex. 206
+contagem,Estruturas Discretas/exercicios.pdf,31,0,ficha,5 ocorrência(s) de palavras-chave
+contagem,Estruturas Discretas/exercicios.pdf,32,0,ficha,3 ocorrência(s) de palavras-chave
+contagem,Estruturas Discretas/conjuntos.pdf,15,0,slides,2 ocorrência(s) de palavras-chave
+contagem,Estruturas Discretas/logica.pdf,18,0,slides,1 ocorrência(s) de palavras-chave
+contagem,Estruturas Discretas/conjuntos.pdf,12,0,slides,1 ocorrência(s) de palavras-chave
+grafos,Estruturas Discretas/exercicios.pdf,34,1,ficha,Grafos
+grafos,Estruturas Discretas/exercicios.pdf,36,1,ficha,
+grafos,Estruturas Discretas/exercicios.pdf,35,0,ficha,25 ocorrência(s) de palavras-chave
+grafos,Estruturas Discretas/logica.pdf,4,0,slides,1 ocorrência(s) de palavras-chave
+grafos,Estruturas Discretas/Resumo_Estruturas_Discretas.pdf,2,0,resumo,1 ocorrência(s) de palavras-chave
+py_io,Introdução à Programação/ex1.py,,1,codigo,print
+py_io,Introdução à Programação/ex2.py,,1,codigo,input
+py_tipos,Introdução à Programação/ex3.py,,1,codigo,float/int
+py_tipos,Introdução à Programação/ex27.py,,1,codigo,bool
+py_operadores,Introdução à Programação/ex4.py,,1,codigo,R**2 * pi
+py_operadores,Introdução à Programação/ex5.py,,1,codigo,
+py_divint,Introdução à Programação/ex7.py,,1,codigo,horas/minutos/segundos
+py_divint,Introdução à Programação/ex12.py,,1,codigo,FizzBuzz
+py_divint,Introdução à Programação/ex17.py,,1,codigo,soma de dígitos
+py_fstrings,Introdução à Programação/ex2.py,,1,codigo,
+py_fstrings,Introdução à Programação/ex7.py,,1,codigo,:02
+py_if,Introdução à Programação/ex8.py,,1,codigo,
+py_if,Introdução à Programação/ex9.py,,1,codigo,máximo de 3
+py_if,Introdução à Programação/ex10.py,,1,codigo,escalões
+py_bool_ops,Introdução à Programação/ex10.py,,1,codigo,and
+py_bool_ops,Introdução à Programação/ex12.py,,1,codigo,i%3==0 and i%5==0
+py_while,Introdução à Programação/ex12.py,,1,codigo,
+py_while,Introdução à Programação/ex29.py,,1,codigo,
+py_for,Introdução à Programação/ex13.py,,1,codigo,
+py_for,Introdução à Programação/ex21.py,,1,codigo,range decrescente
+py_acumulador,Introdução à Programação/ex14.py,,1,codigo,pares/ímpares
+py_acumulador,Introdução à Programação/ex16.py,,1,codigo,maior sequência
+py_acumulador,Introdução à Programação/ex30.py,,1,codigo,
+py_def,Introdução à Programação/ex23.py,,1,codigo,def sum
+py_def,Introdução à Programação/ex24.py,,1,codigo,
+py_math,Introdução à Programação/ex18.py,,1,codigo,math.pi
+py_math,Introdução à Programação/ex19.py,,1,codigo,math.sqrt
+py_math,Introdução à Programação/ex31.py,,1,codigo,math.ceil
+py_strings,Introdução à Programação/ex33.py,,1,codigo,
+py_strings,Introdução à Programação/ex37.py,,1,codigo,
+py_strings,Introdução à Programação/ex42.py,,1,codigo,
+py_tuplos,Introdução à Programação/ex35.py,,1,codigo,
+py_tuplos,Introdução à Programação/ex36.py,,1,codigo,
+py_tuplos,Introdução à Programação/ex40.py,,1,codigo,
+py_digitos,Introdução à Programação/ex17.py,,1,codigo,
+py_digitos,Introdução à Programação/ex22.py,,1,codigo,
+py_digitos,Introdução à Programação/ex30.py,,1,codigo,
+py_digitos,Introdução à Programação/ex31.py,,1,codigo,
+py_divisores,Introdução à Programação/ex20.py,,1,codigo,número perfeito
+py_divisores,Introdução à Programação/ex32.py,,1,codigo,factorize
+py_fatorial,Introdução à Programação/ex28.py,,1,codigo,
+py_collatz,Introdução à Programação/ex29.py,,1,codigo,
+py_pesquisa,Introdução à Programação/ex34.py,,1,codigo,palíndromo
+py_pesquisa,Introdução à Programação/ex40.py,,1,codigo,search
+py_pesquisa,Introdução à Programação/ex41.py,,1,codigo,substring
+py_fibonacci,Introdução à Programação/ex43.py,,1,codigo,evolve
+py_fibonacci,Introdução à Programação/ex44.py,,1,codigo,whichone
+hardware_software,Introdução aos Computadores/00-introducao.pdf,3,1,slides,Partes de um Sistema Computacional
+hardware_software,Introdução aos Computadores/00-introducao.pdf,12,1,slides,Tipos de Software
+hardware_software,Introdução aos Computadores/00-introducao.pdf,11,0,slides,1 ocorrência(s) de palavras-chave
+cpu,Introdução aos Computadores/00-introducao.pdf,8,1,slides,
+cpu,Introdução aos Computadores/02-anatomia-do-computador.pdf,11,1,slides,
+cpu,Introdução aos Computadores/02-anatomia-do-computador.pdf,10,0,slides,3 ocorrência(s) de palavras-chave
+cpu,Introdução aos Computadores/02-anatomia-do-computador.pdf,8,0,slides,2 ocorrência(s) de palavras-chave
+cpu,Introdução aos Computadores/f03.pdf,1,0,ficha,1 ocorrência(s) de palavras-chave
+cpu,Introdução aos Computadores/01-historia-dos-computadores.pdf,49,0,slides,1 ocorrência(s) de palavras-chave
+cpu,Introdução aos Computadores/01-historia-dos-computadores.pdf,48,0,slides,1 ocorrência(s) de palavras-chave
+cpu,Introdução aos Computadores/00-introducao.pdf,4,0,slides,1 ocorrência(s) de palavras-chave
+memoria,Introdução aos Computadores/00-introducao.pdf,9,1,slides,
+memoria,Introdução aos Computadores/00-introducao.pdf,10,1,slides,
+memoria,Introdução aos Computadores/02-anatomia-do-computador.pdf,15,1,slides,Memória principal
+memoria,Introdução aos Computadores/02-anatomia-do-computador.pdf,10,0,slides,5 ocorrência(s) de palavras-chave
+memoria,Introdução aos Computadores/f03.pdf,1,0,ficha,4 ocorrência(s) de palavras-chave
+memoria,Introdução aos Computadores/02-anatomia-do-computador.pdf,4,0,slides,4 ocorrência(s) de palavras-chave
+memoria,Introdução aos Computadores/00-introducao.pdf,11,0,slides,4 ocorrência(s) de palavras-chave
+memoria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,4,0,slides,2 ocorrência(s) de palavras-chave
+memoria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,12,0,slides,1 ocorrência(s) de palavras-chave
+armazenamento,Introdução aos Computadores/00-introducao.pdf,11,1,slides,
+armazenamento,Introdução aos Computadores/02-anatomia-do-computador.pdf,19,1,slides,
+armazenamento,Introdução aos Computadores/02-anatomia-do-computador.pdf,22,1,slides,HDD vs SSD
+armazenamento,Introdução aos Computadores/f03.pdf,1,0,ficha,2 ocorrência(s) de palavras-chave
+armazenamento,Introdução aos Computadores/02-anatomia-do-computador.pdf,21,0,slides,2 ocorrência(s) de palavras-chave
+armazenamento,Introdução aos Computadores/02-anatomia-do-computador.pdf,20,0,slides,2 ocorrência(s) de palavras-chave
+armazenamento,Introdução aos Computadores/01-historia-dos-computadores.pdf,61,0,slides,1 ocorrência(s) de palavras-chave
+armazenamento,Introdução aos Computadores/01-historia-dos-computadores.pdf,20,0,slides,1 ocorrência(s) de palavras-chave
+armazenamento,Introdução aos Computadores/00-introducao.pdf,21,0,slides,1 ocorrência(s) de palavras-chave
+io_devices,Introdução aos Computadores/00-introducao.pdf,5,1,slides,
+io_devices,Introdução aos Computadores/00-introducao.pdf,6,1,slides,
+io_devices,Introdução aos Computadores/00-introducao.pdf,7,1,slides,
+io_devices,Introdução aos Computadores/02-anatomia-do-computador.pdf,8,0,slides,2 ocorrência(s) de palavras-chave
+io_devices,Introdução aos Computadores/02-anatomia-do-computador.pdf,4,0,slides,2 ocorrência(s) de palavras-chave
+io_devices,Introdução aos Computadores/01-historia-dos-computadores.pdf,37,0,slides,1 ocorrência(s) de palavras-chave
+io_devices,Introdução aos Computadores/00-introducao.pdf,4,0,slides,1 ocorrência(s) de palavras-chave
+algoritmo,Introdução aos Computadores/01-historia-dos-computadores.pdf,2,1,slides,Algoritmo
+algoritmo,Introdução aos Computadores/01-historia-dos-computadores.pdf,3,1,slides,Mudar um pneu
+algoritmo,Introdução aos Computadores/01-historia-dos-computadores.pdf,4,1,slides,História dos Algoritmos
+algoritmo,Introdução aos Computadores/01-historia-dos-computadores.pdf,32,0,slides,2 ocorrência(s) de palavras-chave
+algoritmo,Introdução aos Computadores/01-historia-dos-computadores.pdf,5,0,slides,2 ocorrência(s) de palavras-chave
+algoritmo,Introdução aos Computadores/03-armazenamento-de-dados.pdf,54,0,slides,1 ocorrência(s) de palavras-chave
+algoritmo,Introdução aos Computadores/03-armazenamento-de-dados.pdf,29,0,slides,1 ocorrência(s) de palavras-chave
+euclides_ic,Introdução aos Computadores/01-historia-dos-computadores.pdf,5,1,slides,Algoritmo de Euclides
+euclides_ic,Introdução aos Computadores/01-historia-dos-computadores.pdf,4,0,slides,1 ocorrência(s) de palavras-chave
+maquina_analitica,Introdução aos Computadores/01-historia-dos-computadores.pdf,9,1,slides,
+maquina_analitica,Introdução aos Computadores/01-historia-dos-computadores.pdf,14,1,slides,Números de Bernoulli
+maquina_analitica,Introdução aos Computadores/01-historia-dos-computadores.pdf,12,0,slides,6 ocorrência(s) de palavras-chave
+maquina_analitica,Introdução aos Computadores/01-historia-dos-computadores.pdf,13,0,slides,4 ocorrência(s) de palavras-chave
+turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,19,1,slides,
+turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,20,1,slides,Máquina universal
+turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,22,1,slides,Exemplo de funcionamento
+turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,25,1,slides,Turing-complete
+turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,21,0,slides,6 ocorrência(s) de palavras-chave
+church_turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,16,1,slides,É tudo computável?
+church_turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,17,1,slides,Funções computáveis
+church_turing,Introdução aos Computadores/01-historia-dos-computadores.pdf,18,1,slides,Tese de Church-Turing
+transistor,Introdução aos Computadores/01-historia-dos-computadores.pdf,41,1,slides,
+transistor,Introdução aos Computadores/01-historia-dos-computadores.pdf,44,1,slides,
+transistor,Introdução aos Computadores/01-historia-dos-computadores.pdf,48,1,slides,Intel 4004
+transistor,Introdução aos Computadores/f03.pdf,1,0,ficha,2 ocorrência(s) de palavras-chave
+transistor,Introdução aos Computadores/02-anatomia-do-computador.pdf,8,0,slides,2 ocorrência(s) de palavras-chave
+transistor,Introdução aos Computadores/01-historia-dos-computadores.pdf,59,0,slides,1 ocorrência(s) de palavras-chave
+transistor,Introdução aos Computadores/01-historia-dos-computadores.pdf,46,0,slides,1 ocorrência(s) de palavras-chave
+transistor,Introdução aos Computadores/01-historia-dos-computadores.pdf,45,0,slides,1 ocorrência(s) de palavras-chave
+moore,Introdução aos Computadores/01-historia-dos-computadores.pdf,59,1,slides,
+moore,Introdução aos Computadores/01-historia-dos-computadores.pdf,60,1,slides,
+moore,Introdução aos Computadores/01-historia-dos-computadores.pdf,62,0,slides,1 ocorrência(s) de palavras-chave
+moore,Introdução aos Computadores/01-historia-dos-computadores.pdf,61,0,slides,1 ocorrência(s) de palavras-chave
+multicore,Introdução aos Computadores/01-historia-dos-computadores.pdf,63,1,slides,
+multicore,Introdução aos Computadores/01-historia-dos-computadores.pdf,64,1,slides,16 Inteligência Artificial (redes neuronais)
+multicore,Introdução aos Computadores/02-anatomia-do-computador.pdf,16,1,slides,GPU
+multicore,Introdução aos Computadores/02-anatomia-do-computador.pdf,18,0,slides,2 ocorrência(s) de palavras-chave
+multicore,Introdução aos Computadores/02-anatomia-do-computador.pdf,17,0,slides,2 ocorrência(s) de palavras-chave
+multicore,Introdução aos Computadores/f03.pdf,1,0,ficha,1 ocorrência(s) de palavras-chave
+von_neumann,Introdução aos Computadores/01-historia-dos-computadores.pdf,37,1,slides,Proposta em 1945 (EDVAC)
+von_neumann,Introdução aos Computadores/02-anatomia-do-computador.pdf,3,1,slides,
+von_neumann,Introdução aos Computadores/02-anatomia-do-computador.pdf,4,1,slides,Componentes
+von_neumann,Introdução aos Computadores/01-historia-dos-computadores.pdf,38,0,slides,2 ocorrência(s) de palavras-chave
+von_neumann,Introdução aos Computadores/02-anatomia-do-computador.pdf,10,0,slides,1 ocorrência(s) de palavras-chave
+von_neumann,Introdução aos Computadores/01-historia-dos-computadores.pdf,39,0,slides,1 ocorrência(s) de palavras-chave
+barramentos,Introdução aos Computadores/02-anatomia-do-computador.pdf,8,1,slides,
+barramentos,Introdução aos Computadores/f03.pdf,1,1,ficha,"Ex. 1 (f), (g)"
+barramentos,Introdução aos Computadores/02-anatomia-do-computador.pdf,15,0,slides,1 ocorrência(s) de palavras-chave
+barramentos,Introdução aos Computadores/02-anatomia-do-computador.pdf,13,0,slides,1 ocorrência(s) de palavras-chave
+load_store,Introdução aos Computadores/02-anatomia-do-computador.pdf,10,1,slides,
+load_store,Introdução aos Computadores/03-armazenamento-de-dados.pdf,13,1,slides,Dados usados nas instruções
+load_store,Introdução aos Computadores/03-armazenamento-de-dados.pdf,14,1,slides,
+load_store,Introdução aos Computadores/01-historia-dos-computadores.pdf,37,0,slides,3 ocorrência(s) de palavras-chave
+load_store,Introdução aos Computadores/03-armazenamento-de-dados.pdf,15,0,slides,2 ocorrência(s) de palavras-chave
+load_store,Introdução aos Computadores/03-armazenamento-de-dados.pdf,10,0,slides,2 ocorrência(s) de palavras-chave
+load_store,Introdução aos Computadores/02-anatomia-do-computador.pdf,3,0,slides,1 ocorrência(s) de palavras-chave
+load_store,Introdução aos Computadores/01-historia-dos-computadores.pdf,59,0,slides,1 ocorrência(s) de palavras-chave
+load_store,Introdução aos Computadores/01-historia-dos-computadores.pdf,39,0,slides,1 ocorrência(s) de palavras-chave
+harvard,Introdução aos Computadores/02-anatomia-do-computador.pdf,10,1,slides,
+segmentos,Introdução aos Computadores/03-armazenamento-de-dados.pdf,9,1,slides,
+segmentos,Introdução aos Computadores/03-armazenamento-de-dados.pdf,10,1,slides,
+segmentos,Introdução aos Computadores/03-armazenamento-de-dados.pdf,11,1,slides,Execução de instruções
+sh_navegacao,Introdução aos Computadores/f01.pdf,1,1,ficha,Ex. 1–3
+sh_navegacao,Introdução aos Computadores/f03.pdf,1,0,ficha,1 ocorrência(s) de palavras-chave
+sh_navegacao,Introdução aos Computadores/00-introducao.pdf,11,0,slides,1 ocorrência(s) de palavras-chave
+sh_ficheiros,Introdução aos Computadores/f01.pdf,1,1,ficha,Ex. 4–5
+sh_ficheiros,Introdução aos Computadores/f01.pdf,2,1,ficha,Ex. 6–10
+sh_ficheiros,Introdução aos Computadores/f01.pdf,3,1,ficha,Ex. 13 tar
+sh_ficheiros,Introdução aos Computadores/f02.pdf,2,0,ficha,1 ocorrência(s) de palavras-chave
+sh_permissoes,Introdução aos Computadores/f01.pdf,2,1,ficha,Ex. 11
+sh_processos,Introdução aos Computadores/f02.pdf,1,1,ficha,Ex. 1
+sh_processos,Introdução aos Computadores/f02.pdf,3,1,ficha,Ex. 9
+sh_glob,Introdução aos Computadores/f02.pdf,1,1,ficha,Ex. 2
+sh_pipes,Introdução aos Computadores/f02.pdf,1,1,ficha,Ex. 3
+sh_pipes,Introdução aos Computadores/f02.pdf,2,1,ficha,
+sh_filtros,Introdução aos Computadores/f02.pdf,2,1,ficha,Ex. 4–6
+sh_filtros,Introdução aos Computadores/f02.pdf,3,1,ficha,Ex. 7–10
+sh_filtros,Introdução aos Computadores/f02.pdf,1,0,ficha,2 ocorrência(s) de palavras-chave
+regex,Introdução aos Computadores/f02.pdf,3,1,ficha,Ex. 11
+bit_byte,Introdução aos Computadores/03-armazenamento-de-dados.pdf,2,1,slides,Os bits e o seu significado
+bit_byte,Introdução aos Computadores/03-armazenamento-de-dados.pdf,3,1,slides,
+bit_byte,Introdução aos Computadores/03-armazenamento-de-dados.pdf,4,1,slides,Unidades de medida
+bit_byte,Introdução aos Computadores/03-armazenamento-de-dados.pdf,31,0,slides,8 ocorrência(s) de palavras-chave
+bit_byte,Introdução aos Computadores/f04.pdf,1,0,ficha,7 ocorrência(s) de palavras-chave
+bit_byte,Introdução aos Computadores/03-armazenamento-de-dados.pdf,56,0,slides,7 ocorrência(s) de palavras-chave
+bit_byte,Introdução aos Computadores/f04.pdf,2,0,ficha,3 ocorrência(s) de palavras-chave
+bit_byte,Introdução aos Computadores/f02.pdf,3,0,ficha,1 ocorrência(s) de palavras-chave
+bit_byte,Introdução aos Computadores/01-historia-dos-computadores.pdf,49,0,slides,1 ocorrência(s) de palavras-chave
+base_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,16,1,slides,Base binária
+base_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,17,1,slides,
+base_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,21,1,slides,100101 → decimal
+base_binaria,Introdução aos Computadores/f04.pdf,1,1,ficha,Ex. 1
+base_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,27,0,slides,3 ocorrência(s) de palavras-chave
+base_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,20,0,slides,3 ocorrência(s) de palavras-chave
+base_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,18,0,slides,3 ocorrência(s) de palavras-chave
+base_binaria,Introdução aos Computadores/f04.pdf,2,0,ficha,1 ocorrência(s) de palavras-chave
+octal_hex,Introdução aos Computadores/03-armazenamento-de-dados.pdf,18,1,slides,
+octal_hex,Introdução aos Computadores/03-armazenamento-de-dados.pdf,22,1,slides,Conversões
+octal_hex,Introdução aos Computadores/f04.pdf,1,1,ficha,Ex. 1–2
+octal_hex,Introdução aos Computadores/03-armazenamento-de-dados.pdf,33,0,slides,2 ocorrência(s) de palavras-chave
+conversao_bases,Introdução aos Computadores/03-armazenamento-de-dados.pdf,23,1,slides,
+conversao_bases,Introdução aos Computadores/03-armazenamento-de-dados.pdf,24,1,slides,Exemplo: 13
+conversao_bases,Introdução aos Computadores/f04.pdf,1,1,ficha,Ex. 1
+conversao_bases,Introdução aos Computadores/f04.pdf,2,0,ficha,1 ocorrência(s) de palavras-chave
+conversao_bases,Introdução aos Computadores/03-armazenamento-de-dados.pdf,31,0,slides,1 ocorrência(s) de palavras-chave
+inteiros_sem_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,19,1,slides,
+inteiros_sem_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,20,1,slides,Maior número: 2ⁿ − 1
+inteiros_sem_sinal,Introdução aos Computadores/f04.pdf,1,1,ficha,Ex. 3
+inteiros_sem_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,34,0,slides,3 ocorrência(s) de palavras-chave
+inteiros_sem_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,40,0,slides,1 ocorrência(s) de palavras-chave
+inteiros_com_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,25,1,slides,
+inteiros_com_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,35,1,slides,
+inteiros_com_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,39,0,slides,4 ocorrência(s) de palavras-chave
+inteiros_com_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,38,0,slides,4 ocorrência(s) de palavras-chave
+complemento2,Introdução aos Computadores/03-armazenamento-de-dados.pdf,26,1,slides,
+complemento2,Introdução aos Computadores/03-armazenamento-de-dados.pdf,27,1,slides,Limites
+complemento2,Introdução aos Computadores/03-armazenamento-de-dados.pdf,29,1,slides,Algoritmo para −6
+complemento2,Introdução aos Computadores/03-armazenamento-de-dados.pdf,30,1,slides,Inverter e somar 1
+complemento2,Introdução aos Computadores/03-armazenamento-de-dados.pdf,33,1,slides,Conversões
+complemento2,Introdução aos Computadores/03-armazenamento-de-dados.pdf,37,0,slides,2 ocorrência(s) de palavras-chave
+extensao_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,31,1,slides,
+extensao_sinal,Introdução aos Computadores/03-armazenamento-de-dados.pdf,32,1,slides,Exemplo −6
+adicao_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,16,1,slides,Adição de um/vários bits
+adicao_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,36,1,slides,Adição binária em complemento para 2
+adicao_binaria,Introdução aos Computadores/f04.pdf,2,1,ficha,Ex. 6–7
+adicao_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,38,0,slides,1 ocorrência(s) de palavras-chave
+adicao_binaria,Introdução aos Computadores/03-armazenamento-de-dados.pdf,37,0,slides,1 ocorrência(s) de palavras-chave
+overflow,Introdução aos Computadores/03-armazenamento-de-dados.pdf,37,1,slides,
+overflow,Introdução aos Computadores/03-armazenamento-de-dados.pdf,38,1,slides,Como detetar
+overflow,Introdução aos Computadores/03-armazenamento-de-dados.pdf,40,1,slides,Nota sobre overflow
+overflow,Introdução aos Computadores/f04.pdf,2,1,ficha,Ex. 6–7
+overflow,Introdução aos Computadores/03-armazenamento-de-dados.pdf,39,0,slides,1 ocorrência(s) de palavras-chave
+notacao_cientifica,Introdução aos Computadores/03-armazenamento-de-dados.pdf,43,1,slides,Base 10
+notacao_cientifica,Introdução aos Computadores/03-armazenamento-de-dados.pdf,44,1,slides,Base 2
+notacao_cientifica,Introdução aos Computadores/03-armazenamento-de-dados.pdf,54,0,slides,2 ocorrência(s) de palavras-chave
+virgula_flutuante,Introdução aos Computadores/03-armazenamento-de-dados.pdf,41,1,slides,101.101
+virgula_flutuante,Introdução aos Computadores/03-armazenamento-de-dados.pdf,42,1,slides,
+virgula_flutuante,Introdução aos Computadores/03-armazenamento-de-dados.pdf,45,1,slides,
+virgula_flutuante,Introdução aos Computadores/03-armazenamento-de-dados.pdf,55,0,slides,6 ocorrência(s) de palavras-chave
+virgula_flutuante,Introdução aos Computadores/03-armazenamento-de-dados.pdf,54,0,slides,6 ocorrência(s) de palavras-chave
+virgula_flutuante,Introdução aos Computadores/03-armazenamento-de-dados.pdf,49,0,slides,4 ocorrência(s) de palavras-chave
+ieee754,Introdução aos Computadores/03-armazenamento-de-dados.pdf,46,1,slides,
+ieee754,Introdução aos Computadores/03-armazenamento-de-dados.pdf,49,1,slides,Bias
+ieee754,Introdução aos Computadores/03-armazenamento-de-dados.pdf,51,1,slides,"Exemplo −0,6875"
+ieee754,Introdução aos Computadores/03-armazenamento-de-dados.pdf,52,1,slides,"Exemplo −9,6875"
+ieee754,Introdução aos Computadores/03-armazenamento-de-dados.pdf,53,1,slides,Casos especiais
+adicao_vf,Introdução aos Computadores/03-armazenamento-de-dados.pdf,54,1,slides,Algoritmo
+adicao_vf,Introdução aos Computadores/03-armazenamento-de-dados.pdf,55,1,slides,"Exemplo 12,6875 + 5,125"
+texto_ascii,Introdução aos Computadores/03-armazenamento-de-dados.pdf,56,1,slides,
+texto_ascii,Introdução aos Computadores/03-armazenamento-de-dados.pdf,57,1,slides,Tabela ASCII
+texto_ascii,Introdução aos Computadores/03-armazenamento-de-dados.pdf,58,1,slides,UTF-8
+texto_ascii,Introdução aos Computadores/03-armazenamento-de-dados.pdf,60,0,slides,2 ocorrência(s) de palavras-chave
+interpretacao_contexto,Introdução aos Computadores/03-armazenamento-de-dados.pdf,5,1,slides,
+interpretacao_contexto,Introdução aos Computadores/03-armazenamento-de-dados.pdf,6,1,slides,Sequência de 32 bits
+interpretacao_contexto,Introdução aos Computadores/03-armazenamento-de-dados.pdf,15,1,slides,add / addu / add.s / add.d
+interpretacao_contexto,Introdução aos Computadores/03-armazenamento-de-dados.pdf,9,0,slides,1 ocorrência(s) de palavras-chave
+hz_serie_taylor,Cálculo I/Stewart.pdf,9,1,livro,"Índice: 11.8 Power Series (p. 746), 11.10 Taylor and Maclaurin Series (p. 759) — índice na pág. 9 do PDF"
+hz_serie_taylor,Cálculo I/Stewart.pdf,9,0,livro,3 ocorrência(s) de palavras-chave
+hz_integral,Cálculo I/Stewart.pdf,7,1,livro,"Índice: 5.2 The Definite Integral (p. 378), 5.3 The Fundamental Theorem of Calculus (p. 392) — índice na pág. 7 do PDF"
+hz_integral,Cálculo I/Stewart.pdf,7,0,livro,3 ocorrência(s) de palavras-chave
+hz_integral,Cálculo I/Stewart.pdf,19,0,livro,1 ocorrência(s) de palavras-chave
+hz_integral,Cálculo I/Stewart.pdf,18,0,livro,1 ocorrência(s) de palavras-chave
+hz_derivadas_parciais,Cálculo I/Stewart.pdf,10,1,livro,"Índice: 14.1 (p. 888), 14.3 Partial Derivatives (p. 911), 14.4 Tangent Planes and Linear Approximations (p. 927) — índice na pág. 10 do PDF"
+hz_derivadas_parciais,Cálculo I/Stewart.pdf,19,0,livro,2 ocorrência(s) de palavras-chave
+hz_derivadas_parciais,Cálculo I/Stewart.pdf,10,0,livro,2 ocorrência(s) de palavras-chave
+hz_derivadas_parciais,Cálculo I/Stewart.pdf,15,0,livro,1 ocorrência(s) de palavras-chave
+hz_gradiente,Cálculo I/Stewart.pdf,10,1,livro,Índice: 14.6 (p. 946) — índice na pág. 10 do PDF
+hz_gradiente,Cálculo I/Stewart.pdf,10,0,livro,2 ocorrência(s) de palavras-chave
+hz_gradiente,Cálculo I/Stewart.pdf,15,0,livro,1 ocorrência(s) de palavras-chave
+hz_otimizacao,Cálculo I/Stewart.pdf,6,1,livro,"Índice: 4.7 Optimization Problems (p. 330), 14.7 (p. 959), 14.8 Lagrange Multipliers (p. 971) — índice na pág. 6 do PDF"
+hz_otimizacao,Cálculo I/Stewart.pdf,18,0,livro,1 ocorrência(s) de palavras-chave
+hz_otimizacao,Cálculo I/Stewart.pdf,15,0,livro,1 ocorrência(s) de palavras-chave
+hz_otimizacao,Cálculo I/Stewart.pdf,10,0,livro,1 ocorrência(s) de palavras-chave
+hz_vetores_stewart,Cálculo I/Stewart.pdf,9,1,livro,"Índice: 12.3 Dot Product (p. 807), 12.4 Cross Product (p. 814), 12.5 Lines and Planes (p. 823) — índice na pág. 9 do PDF"
+hz_vetores_stewart,Cálculo I/Stewart.pdf,9,0,livro,2 ocorrência(s) de palavras-chave
+hz_edo,Cálculo I/Stewart.pdf,8,1,livro,"Índice: 9.1 (p. 586), 9.2 Direction Fields and Euler's Method (p. 591) — índice na pág. 8 do PDF"
+hz_edo,Cálculo I/Stewart.pdf,18,0,livro,5 ocorrência(s) de palavras-chave
+hz_edo,Cálculo I/Stewart.pdf,19,0,livro,3 ocorrência(s) de palavras-chave
+hz_edo,Cálculo I/Stewart.pdf,8,0,livro,2 ocorrência(s) de palavras-chave
+hz_ia,Introdução aos Computadores/00-introducao.pdf,27,1,slides,Inteligência Artificial (IA)
+hz_ia,Introdução aos Computadores/01-historia-dos-computadores.pdf,64,0,slides,1 ocorrência(s) de palavras-chave
+hz_bigdata,Introdução aos Computadores/00-introducao.pdf,26,1,slides,
+hz_redes_neuronais,Introdução aos Computadores/01-historia-dos-computadores.pdf,64,1,slides,"8 GPU, 4+4 cores + 16 Inteligência Artificial (redes neuronais)"
